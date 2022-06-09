@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">20220608-EvanJones-NYCSchools</string>
+    <string name="school_name">school_name</string>
+    <string name="tt_preface">Number of SAT Takers:</string>
+    <string name="average_math_score">Average Math Score:</string>
+    <string name="average_writing_score">Average Writing Score:</string>
+    <string name="average_reading_score">Average Reading Score:</string>
+    <string name="sample_number">400</string>
+    <string name="error_title">Error Occured</string>
+    <string name="test_takers">test_takers</string>
+</resources>
